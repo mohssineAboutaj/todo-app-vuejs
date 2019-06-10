@@ -1,0 +1,15 @@
+{
+  "name": "todo-list-using-vuejs-materialize-css",
+  "version": "1.0.0",
+  "description": "A simple example for Todo list app using VueJs & materialize-css",
+  "keywords": [
+    "todo",
+    "todo app",
+    "todo app",
+    "vueJs",
+    "materialize-css",
+    "jquery"
+  ],
+  "author": "Mohssine Aboutaj",
+  "license": "MIT"
+}
